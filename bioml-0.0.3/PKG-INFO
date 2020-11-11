@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: bioml
+Version: 0.0.3
+Summary: Toolbox providing basic functions for bio-signal (pre)processing and machine learning
+Home-page: https://github.com/vammendez/The-Awesome-App/tree/Development
+Author: Vincent Mendez
+Author-email: vincent.mendez@epfl.ch
+License: UNKNOWN
+Description: # BioML Toolbox
+        
+        Toolbox providing basic functions for bio-signal (pre)processing and machine learning
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: GNU General Public License v3.0
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
